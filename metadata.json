@@ -1,0 +1,5 @@
+{
+  "name": "Fit & Fight ",
+  "description": "A web application to track scores and rankings for a sports competition. Users can submit their activities, and the app automatically calculates and displays individual and team rankings.",
+  "requestFramePermissions": []
+}
